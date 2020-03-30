@@ -1,0 +1,4 @@
+green-lemon.png taken from https://ghorkov.com/
+
+Logo font is same as Julia programming language.
+
